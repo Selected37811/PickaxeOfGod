@@ -1,0 +1,10 @@
+name: PickaxeOfGod
+main: Pickaxe\Main
+version : 1.0.0-DEV
+api: 5.0.0
+author: Selected378
+description: Une pioche en fer évolutive
+permissions:
+  pickaxeofgod.give:
+    default: op
+    description: "Permet de se donner une Pickaxe Of The God"
